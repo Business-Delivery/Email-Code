@@ -1,0 +1,101 @@
+
+<div style="background-color:#F6F6F6; padding: 20px; font-family:Arial, Helvetica, sans-serif; color: #000000">
+<table style="background-color:#F6F6F6; padding: 20px; font-family:Arial, Helvetica, sans-serif; color: #000000" width="600px" cellspacing="0" align="center">
+<!-- header -->
+<tr>
+	<td style="width:600px; text-align: center; padding-right: 10px; font-size: 10px" colspan="4"> Come to our <b>Open House</b> for pancakes and savings. </td>
+</tr>
+<tr>
+	<td style="padding-bottom:10px" colspan="1">
+		<a href="http://www.costcobusinessdelivery.com"><img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/BC_logoc_199x50.png" alt="Costco Business Center"></a>
+	</td>
+	<td style="width:300px; text-align: right; padding-right: 10px; font-size: 10px" colspan="2">
+    	<a class="header-link" style="color: #000000; text-decoration: none;" href="http://click.online.costco.com/dm?id=%%SUBSCRIBER_ID_TAG%%">
+						View email online &#9658;
+		</a>
+	</td>
+</tr>
+
+<!-- hero -->
+
+<tr>
+	<td style="width:200px; margin-top:15px" colspan="3">
+		     	<img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/openhouse-080916/banner.png" alt="Open House Tuesday, March 15, 2016 - 8 a.m. - Noon" width="600px">
+			</td>
+</tr>
+<tr>
+	<td style="width:200px; margin-top:15px" colspan="3">
+		<a href="http://www.costcobusinessdelivery.com/WarehouseLocatorDetailsView?langId=-1&storeId=11301&catalogId=11701&warehouseNumber=650&BeginAddress=denver&hasBusiness=true&numOfWarehousesToReturn=null&location=denver&callingPage=WarehouseLocatorView" style="text-decoration:none; color:#000000" >
+        	<img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/openhouse-080916/location-650.png" alt="Get Directions &#9658" width="600px">
+		</a>
+	</td>
+</tr>
+<tr>
+	<td style="width:200px; margin-top:15px" colspan="1">
+       	<img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/openhouse-080916/pancake.png" style="padding-left: 40px; height:150px;">
+	</td>
+    <td style="width:200px; margin-top:15px" colspan="2"><span style="font-size: 24px;">Enjoy a  complimentary <br><strong>pancake breakfast.</strong></span></td>
+</tr>
+<tr>
+	<td style="width:200px; margin-top:15px" colspan="1">
+        	<img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/openhouse-080916/entrance.png" style="padding-left: 40px; height:150px;">
+	</td>
+    <td style="width:200px; margin-top:15px" colspan="2">
+        	<span style="font-size: 24px;">Come take a <strong>tour</strong> and see what makes us different.</span>   
+	</td>
+</tr>
+<tr>
+	<td style="width:200px; margin-top:15px" colspan="1">
+		<a href="http://www.costcobusinessdelivery.com/businesssavings.html" style="text-decoration:none; color:#000000" >
+        	<img src="http://www.costcobusinessdelivery.com/wcsstore/USBD/email_fy16/openhouse-080916/bse.png" style="padding-left: 40px; height:150px;">
+		</a>
+	</td>
+    <td style="width:200px; margin-top:15px" colspan="2"><a href="http://www.costcobusinessdelivery.com/businesssavings.html" style="text-decoration:none; color:#000000"> <span style="font-size: 24px;">Shop exclusive Business Savings <strong>offers</strong> with more than $800 of Instant Savings.</span><br />
+        <br />
+      <span style="color:#D70003; font-weight: bold; font-size: 14px; text-decoration:underline">SEE ALL OFFERS</span><span style="color:#D70003;font-size:12px"> &#9658; </span> </a></td>
+</tr>
+
+<!-- footer Nav -->
+<tr>
+	<td style="list-style-type:none; text-align:center" colspan="4" height="50px">
+    	<ul style="display:inline; font-size:12px">
+        	<a class="header-link" style="color: #444444; padding-right: 12px; padding-left: 6px; text-decoration: none" href="http://www.costcobusinessdelivery.com/WarehouseLocatorView?langId=-1&storeId=11301&catalogId=11701">
+						Locations
+					</a>
+					|
+					<a class="header-link" style="color: #444444; padding-right: 12px; padding-left: 12px; text-decoration: none" href="http://www.costcobusinessdelivery.com/customer-service.html">
+						Customer Service
+					</a>
+					|
+					<a class="header-link" style="color: #444444; padding-right: 12px; padding-left: 12px; text-decoration: none" href="mailto:+CostcoNews@online.costco.com">
+						Add Us to Your Address Book
+					</a>
+        </ul>
+    </td>
+</tr>
+<!-- legal -->
+<tr>
+	<td style="font-size: 10px" colspan="4" width="600px" >
+    				Product specifications, availability and prices are subject to change without notice.
+					<br /><br />
+					In the past you provided Costco with your email address&nbsp; [%%$email%%].&nbsp; Occasionally, you will receive brief advertising announcements regarding special items and services. If you prefer not to receive these advertisements, please click 
+					<a class="footer-link" style="color: #444444;" href="https://click.online.costco.com/bin/sie?id=%%SUBSCRIBER_ID_TAG%%&l=subcenter&skip_confirm=1">
+						unsubscribe
+					</a> 
+					to send an email requesting to be removed.
+					<br /><br /> 
+                    
+					Costco Wholesale, Customer Service P.O. Box 34535 -- Seattle, WA 98124-1535.
+					<br />
+					&copy; Costco Wholesale Corporation. All rights reserved.&nbsp;&nbsp;
+					<a class="footer-link" style="color: #444444;" href="http://www.costco.com/privacy-policy.html?" target=_top>
+						Privacy Statement
+					</a>&nbsp;&nbsp;
+					<a class="footer-link" style="color: #444444;" href="http://www.costco.com/terms-and-conditions-of-use.html?" target=_top>
+						Terms and Conditions
+					</a>
+				</td>
+			</tr>
+</table>
+</div>
+
